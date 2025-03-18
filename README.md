@@ -1,6 +1,6 @@
 # Netflix-dashboard
 
-Tableau Public Dashboard Link - https://public.tableau.com/shared/T58K7W38X?:display_count=n&:origin=viz_share_link
+Tableau Public Dashboard Link - https://public.tableau.com/app/profile/animesh.anup.bhawtankar/viz/NetflixDashboard_17020690158160/Netflix
 
 This repository contains a Tableau dashboard that provides insightful visualizations and analytics on Netflix movies and TV shows. The dashboard is designed to offer a comprehensive view of the content available on Netflix, covering various aspects such as total content by country, top genres, ratings, content distribution over the years, duration, descriptions, date added, and release years.
 
